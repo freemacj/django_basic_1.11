@@ -1,0 +1,1 @@
+SECRET_KEY = 'abc123456789' #Your SECRET_KEY here!!!
